@@ -191,7 +191,20 @@
 请在每道题的下方空白处写出您的答案。
 
 1. **在 OpenLayers 中，`ol.Map`、`ol.View` 和 `ol.layer.Layer` 的关系是什么？如何动态调整 `ol.View` 的分辨率以适配不同设备？**
-<div style="height: 500px;"></div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 2. **在 GIS 中，什么是空间索引？在 OpenLayers 中如何利用空间索引优化大规模矢量数据的渲染性能？**
 <div style="height: 500px;"></div>
